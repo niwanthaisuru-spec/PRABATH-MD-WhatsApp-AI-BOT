@@ -7,7 +7,7 @@
 * @project_name PRABATH-MD
 * @author Prabath Kumara <https://github.com/prabathLK>
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
-* @link <https://github.com/prabathLK/PRABATH-MD>
+* @link PRABATH-MD~IvtGkboC#-0n_bUsbetFxaRibjvKqy7EDzp2V3mxEwk_iwZ-UGQY
 * @version 1.0.0
 
 © 2023 Prabath Kumara, SACHI-BOT. All rights reserved.
