@@ -25,6 +25,10 @@
     "awesome-phonenumber": "^2.64.0",
     "libphonenumber-js": "^1.10.20",
     "util": "^0.12.5",
-    "node-fetch": "^2.6.7"
+    "node-fetch": "^2.6.7",
+    "megajs": "^1.1.0",
+    "mongodb": "^5.1.0",
+    "yargs": "^17.7.1",
+    "jimp": "latest"
   }
 }
