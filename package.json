@@ -24,6 +24,7 @@
     "fluent-ffmpeg": "^2.1.2",
     "awesome-phonenumber": "^2.64.0",
     "libphonenumber-js": "^1.10.20",
-    "util": "^0.12.5"
+    "util": "^0.12.5",
+    "node-fetch": "^2.6.7"
   }
 }
