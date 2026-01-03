@@ -23,6 +23,7 @@
     "ffmpeg": "^0.0.4",
     "fluent-ffmpeg": "^2.1.2",
     "awesome-phonenumber": "^2.64.0",
-    "libphonenumber-js": "^1.10.20"
+    "libphonenumber-js": "^1.10.20",
+    "util": "^0.12.5"
   }
 }
